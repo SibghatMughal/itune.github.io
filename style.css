@@ -41,7 +41,7 @@ a {
 }
 
 section#entertainment {
-  background: url('section-bg.JPG') no-repeat bottom/cover;
+  background: url('https://i.ibb.co/tMxX9GN/section-bg.jpg') no-repeat bottom/cover;
   padding: 10rem 0;
 }
 
@@ -56,7 +56,7 @@ section#entertainment {
 #showcase {
   margin: 0;
   padding: 0;
-  background: url('showcase.JPG') no-repeat center/cover;
+  background: url('https://i.ibb.co/ww9468C/showcase.jpg') no-repeat center/cover;
   width: 100%;
   height: 100vh;
   position: relative;
